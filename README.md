@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteCorrea
-- 👀 I’m interested in adquir conhecimentos em testes manuais/automação
+- 👀 I’m interested in adquir conhecimentos em testes manuais/automação e na programação
 - 🌱 I’m currently learning  sobre introdução a teste / API
 
 <!---
